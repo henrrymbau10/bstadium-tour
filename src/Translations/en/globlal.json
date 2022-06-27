@@ -1,0 +1,38 @@
+{
+    "navbar": {
+        "navbar-challenge": "Challenge",
+        "navbar-itinerary": "Itinerary",
+        "navbar-participation": "Participation",
+        "navbar-benefits": "Benefits",
+        "navbar-singup": "Sign Up"
+    },
+    "home": {
+        "home-title": "OPEN INSCRIPTIONS!",
+        "home-subtitle": "Bilbao Stadium Challenge 24th of october",
+        "home-signup": "Sign Up"
+    },
+    "main": {
+        "main-challenge-title": "Challenge",
+        "main-challenge-text1": "Bstadium challenges you to complete a 5km race and multiple obstacles inside and outside the San Mames Stadium.",
+        "main-challenge-text2": "The Stadium Challenge is a fun race through the most exclusive areas of the Stadium and perfect for beginners or experienced in the fitness world.",
+        "main-itinerary-title": "Itinerary",
+        "main-itinerary-text": "Go through the exterior and interiors, rare areas, porter funds, vomitoria and parking completing a series of obstacles based on different tests of resistance, speed and strength.",
+        "main-participation-title": "Participation",
+        "main-participation-subtitle": "INDIVIDUAL",
+        "main-participation-subtitle2": "TEAMS",
+        "main-participation-text": "Face this challenge individually and compete with the rest of players dialing your best time and demonstrating your strength.",
+        "main-participation-text2": "Gather your team and compete with other teams of 5 or 10 people.You will all have to motivate, support and work together to overcome the challenge, and be among the best positions.",
+        "main-benefits-title": "Benefits",
+        "main-benefits-text1": "During the Challenge you will enjoy an incredible atmosphere in a unique event. You will have access to exclusive areas of the San Mames Stadium while having fun overcoming all the obstacles competing with the rest of the runners and teams. ",
+        "main-benefits-text2": "With your participation you will have the following services included: "
+    },
+    "img": {
+        "obstacle-text": "12 OBSTACLES",
+        "stadium-text": "SAN MAMES BILBAO STADIUM",
+        "medal-text": "MEDALS AND REWARDS",
+        "tshirt-text": "EVENT T-SHIRT",
+        "hydration-text": "HYDRATION",
+        "nutrition-text": "NUTRITION",
+        "camera-text": "SUMMARY VIDEO AND PROFESSIONAL PHOTOS"
+    }
+}

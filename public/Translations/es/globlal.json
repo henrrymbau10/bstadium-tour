@@ -1,0 +1,38 @@
+{
+    "navbar": {
+        "navbar-challenge": "Desafio",
+        "navbar-itinerary": "Recorrido",
+        "navbar-participation": "Participacion",
+        "navbar-benefits": "De que disfrutaras",
+        "navbar-singup": "Inscribirme"
+    },
+    "home": {
+        "home-title": "¡INSCRIPCIONES ABIERTAS!",
+        "home-subtitle": "Desafio Estadio Bilbao 24 de octubre",
+        "home-signup": "Inscribirme"
+    },
+    "main": {
+        "main-challenge-title": "Desafío",
+        "main-challenge-text1": "Bstadium te desafia a completar una carrera de 5km y múltiples obstaculos en el interior y exterior del Estadio San Mamés.",
+        "main-challenge-text2": "El Desafío Estadio es una carrera divertida a través de las zonas más exclusivas del Estadio y perfecta para principiantes o experimentados en el mundo fitness.",
+        "main-itinerary-title": "Recorrido",
+        "main-itinerary-text": "Recorre los anillos exteriores e interiores, zonas vip, gradas, fondos de porteria, vomitorios y  parking completando una serie de obstáculos basados en diferentes pruebas de resistencia, velocidad y fuerza.",
+        "main-participation-title": "Participacion",
+        "main-participation-subtitle": "INDIVIDUAL",
+        "main-participation-subtitle2": "EN EQUIPO",
+        "main-participation-text": "Afronta este desafío de manera individual y compite con el resto marcando tu mejor tiempo y demostrando tu fortaleza.",
+        "main-participation-text2": "Junta a tu equipo y compitan con otros equipos de o 10 personas. Tendrán que motivarse, apoyarse y trabajar juntos para superar el desafío y quedar entre los mejores puestos.",
+        "main-benefits-title": "¿De qué disfrutarás?",
+        "main-benefits-text1": "Durante el Desafío disfrutarás de un ambiente increible en un evento único. Tendrás acceso a zonas exclusivas del Estadio San Mamés mientras te diviertes superando todos los obstáculos compitiendo con el resto de corredores y equipos.  ",
+        "main-benefits-text2": "Con tu participación tendrás incluidos los siguientes servicios: "
+    },
+    "img": {
+        "obstacle-text": "12 OBSTACULOS",
+        "stadium-text": "STADIO SAN MAMES BILBAO",
+        "medal-text": "MEDALLAS Y PREMIOS",
+        "tshirt-text": "CAMISETA DEL EVENTO",
+        "hydration-text": "HIDRATACION",
+        "nutrition-text": "NUTRICION",
+        "camera-text": "VIDEO RESUMEN Y FOTOS PROFESIONALES"
+    }
+}

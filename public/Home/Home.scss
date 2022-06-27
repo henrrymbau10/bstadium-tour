@@ -1,0 +1,76 @@
+.home {
+    background-image: url(../Source/background-image-main.png);
+    height: 1012px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h1 {
+        font-weight: 900;
+        font-size: 85px;
+        width: 1220px;
+        height: 150px;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.58);
+        margin-top: 20rem;
+    }
+
+    h2 {
+        font-size: 40px;
+        font-weight: 400;
+        width: 430px;
+        text-align: center;
+        color: white;
+        margin-top: 4rem;
+    }
+
+    button {
+        color: #03ff95;
+        background-color: black;
+        border-radius: 38px;
+        border: 2px solid #03ff95;
+        width: 192px;
+        height: 65px;
+        font-size: 25px;
+        font-weight: 600;
+        margin-top: 7rem;
+    }
+
+    .home-button {
+        margin-top: 2rem;
+    }
+
+    .home-whatsapp {
+        position: relative;
+    }
+
+    @media screen and (min-width: 300px) and (max-width:1199px) {
+        height: 844px;
+        background-image: url(../Source/estadio-mobile.png);
+
+        h1 {
+            font-size: 34px;
+            width: 370px;
+            line-height: 100%;
+            margin-top: 9rem;
+        }
+
+        h2 {
+            font-size: 31px;
+            width: 325px;
+            color: rgba(255, 255, 255, 0.81);
+            margin-top: 8rem;
+            font-weight: 400;
+        }
+
+        button {
+            margin-top: 2rem;
+        }
+
+        .home-button {
+            display: none;
+        }
+    }
+}
